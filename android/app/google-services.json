@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125925008492",
+    "project_id": "liveasy-clone-firebase",
+    "storage_bucket": "liveasy-clone-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125925008492:android:b83e6b521e218f1106a449",
+        "android_client_info": {
+          "package_name": "com.example.liveasy_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125925008492-6n16cb00n8gdkgjtmj8av64s20hch9kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXlgWgvnFW6bgYHHUKJCAeW4SGcHLe9MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125925008492-6n16cb00n8gdkgjtmj8av64s20hch9kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
