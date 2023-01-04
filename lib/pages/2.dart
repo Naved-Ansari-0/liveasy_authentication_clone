@@ -107,7 +107,6 @@ class PhoneNoScreenState extends State<PhoneNoScreen> {
                           },
                           codeAutoRetrievalTimeout: (String verificationId) {},
                         );
-
                       },
                       child: Text("continue".tr)),
                 ),

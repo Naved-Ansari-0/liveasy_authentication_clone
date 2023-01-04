@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:liveasy_clone/pages/4.dart';
-import 'package:get/get.dart';
 
 
 void main() => runApp(MaterialApp(

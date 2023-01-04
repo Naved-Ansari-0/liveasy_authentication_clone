@@ -34,5 +34,4 @@ class LocaleString extends Translations{
       'transporter':'ट्रांसपोर्टर',
     },
   };
-
 }
